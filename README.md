@@ -1,5 +1,5 @@
-# concentration
-Concentration_game
+# Concentration
+Guess the card game. 
 
 Full project in *.zip 
 
